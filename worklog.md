@@ -1,4 +1,4 @@
-#Worklog
+# Worklog
 
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
@@ -23,4 +23,4 @@
 | Jun 28 | Jun 28 | 9h | Keyboard shortcuts implementation |
 | Jun 29 | Jun 29 | 10h | bug fixing in canvas implementation 
 
-Total: 63h
+Total: 176h
